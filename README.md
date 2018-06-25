@@ -28,7 +28,7 @@ Circuit Diagram
     
 ![IMGUR](https://i.imgur.com/ASNSyyS.png)
 
-VDemo
+Video Demo
 -----------
 
 https://www.youtube.com/watch?v=H_8BblMJKng
