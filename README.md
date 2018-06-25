@@ -23,7 +23,6 @@ Requirements
 * Breadboard
 * Jumpers
 
-Circuit diagram 
-
-----------
+Circuit Diagram
+-----------  
     
