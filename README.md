@@ -26,3 +26,4 @@ Requirements
 Circuit Diagram
 -----------  
     
+![IMGUR](https://i.imgur.com/ASNSyyS.png)
