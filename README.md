@@ -30,7 +30,7 @@ Circuit Diagram
 
 Pushbullet
 ------------
-![IMGUR](https://imgur.com/TztrAcz)
+![IMGUR](https://i.imgur.com/TztrAcz.png)
 
 
 Video Demo
