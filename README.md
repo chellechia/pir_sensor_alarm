@@ -28,11 +28,11 @@ Circuit Diagram
     
 ![IMGUR](https://i.imgur.com/ASNSyyS.png)
 
-Pushbullet
+[Pushbullet](https://www.pushbullet.com/)
 ------------
-https://www.pushbullet.com/
 1. Sign up an account
 2. Go to [setting page](https://www.pushbullet.com/#settings) and get access token
+
 ![IMGUR](https://i.imgur.com/TztrAcz.png)
 
 
