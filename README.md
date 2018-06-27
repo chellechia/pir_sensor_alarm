@@ -34,12 +34,12 @@ Circuit Diagram
 2. Go to [setting page](https://www.pushbullet.com/#settings) and get access token (your api key)
 3. You can receive the notification on pc, add pushbullet chrome extension on browser. On your phone or tablet, you can install pushbullet app
 
+* Python library for Pushbullet service : 
+https://github.com/randomchars/pushbullet.py
+
 * Alert message and image :
 
 ![IMGUR](https://i.imgur.com/TztrAcz.png)
-
-* Python library for Pushbullet service : 
-https://github.com/randomchars/pushbullet.py
 
 Video Demo
 -----------
